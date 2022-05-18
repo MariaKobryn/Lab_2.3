@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest_2.3.cpp
+C:\Users\Maria\source\repos\Lab(2.3)\Lab(2.3)\LongLong.cpp(1,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+C:\Users\Maria\source\repos\Lab(2.3)\UnitTest_2.3\UnitTest_2.3.cpp(3,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+     Creating library C:\Users\Maria\source\repos\Lab(2.3)\Debug\UnitTest_2.3.lib and object C:\Users\Maria\source\repos\Lab(2.3)\Debug\UnitTest_2.3.exp
+  UnitTest_2.3.vcxproj -> C:\Users\Maria\source\repos\Lab(2.3)\Debug\UnitTest_2.3.dll
